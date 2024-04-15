@@ -880,7 +880,6 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
 }
 .contact-info li {
   list-style: none;
-  position: relative;
   color: #727272;
   text-align: center;
 }
