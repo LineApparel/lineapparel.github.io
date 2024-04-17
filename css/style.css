@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
   display:flex;
   flex-wrap:wrap;
   justify-content:space-between;
-  animation: fadeInAnimation ease 3s;
+  animation: fadeInAnimation ease 6s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
