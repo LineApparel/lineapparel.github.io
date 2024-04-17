@@ -223,12 +223,12 @@ h1, h2, h3, h4, h5, h6 {
   display:none}}
 
 .container-images .logos { 
-  height: 2.5%;
+  height: 2%;
   margin-bottom:42px;
   min-width:170px;
   -o-object-fit:contain;
   object-fit:contain;
-  width:5%
+  width:4%
 }
 #fh5co-main-nav ul li a {
   display: block;
