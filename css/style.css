@@ -201,8 +201,8 @@ h1, h2, h3, h4, h5, h6 {
 .container-images { 
   display:flex;
   flex-wrap:wrap;
-  justify-content:space-between;
-  animation: fadeInAnimation ease 6s;
+  justify-content: space-between;
+  animation: fadeInAnimation ease 8s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
