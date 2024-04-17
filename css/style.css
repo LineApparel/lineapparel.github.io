@@ -189,6 +189,23 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   font-family: "Playfair Display", Arial, serif;
 }
+
+.container-images { 
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-between;
+} 
+@media (max-width:768px){.retail-partners .container-page .container-images{
+  display:none}}
+
+.retail-partners .container-page .container-images .logos { 
+  height:75px;
+  margin-bottom:42px;
+  min-width:170px;
+  -o-object-fit:contain;
+  object-fit:contain;
+  width:20%
+}
 #fh5co-main-nav ul li a {
   display: block;
   width: 100%;
