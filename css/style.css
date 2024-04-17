@@ -116,7 +116,6 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #fh5co-main-nav {
-  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
@@ -141,7 +140,6 @@ h1, h2, h3, h4, h5, h6 {
   overflow-y: scroll;
 }
 #fh5co-main-nav .fh5co-nav-toggle {
-  position: absolute;
   top: 30px;
   right: 30px;
   padding: 20px;
