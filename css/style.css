@@ -99,10 +99,18 @@ h1, h2, h3, h4, h5, h6 {
 
 #navUpdate {
   text-align: center;
-  color: black;
-  
-  display: inline;
 }
+
+#navUpdate ul {
+  list-style: none;
+  padding: 0;
+}
+
+#navUpdate li {
+  display: inline;
+  margin-right: 10px; 
+}
+
 
 #fh5co-main-nav {
   position: absolute;
