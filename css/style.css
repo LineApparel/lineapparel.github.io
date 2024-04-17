@@ -673,6 +673,11 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   font-weight: 300;
   line-height: 1.5;
 }
+.intro-heading-photo {
+  text-align: right;
+  position: absolute;
+  float: right;
+}
 @media screen and (max-width: 768px) {
   .intro-heading {
     font-size: 30px;
