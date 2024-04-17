@@ -195,10 +195,10 @@ h1, h2, h3, h4, h5, h6 {
   flex-wrap:wrap;
   justify-content:space-between;
 } 
-@media (max-width:768px){.retail-partners .container-page .container-images{
+@media (max-width:768px){.container-images{
   display:none}}
 
-.retail-partners .container-page .container-images .logos { 
+.container-images .logos { 
   height: 2.5%;
   margin-bottom:42px;
   min-width:170px;
