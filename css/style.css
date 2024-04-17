@@ -680,6 +680,8 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   text-align: right;
   position: absolute;
   float: right;
+  width: 20%;
+  height: 20%;
 }
 @media screen and (max-width: 768px) {
   .intro-heading {
