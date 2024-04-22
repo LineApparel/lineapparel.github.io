@@ -1069,6 +1069,13 @@ input[type="text"] {
 }
 
 .creativeP {
+  height:100%;
+  -o-object-fit:cover;
+  object-fit:cover;
+  position:absolute;
+  right:0;
+  top:0;
+  width:100%
   background-image: linear-gradient(to left, transparent, white),
-    url("warehouse.jpg");
+  url("warehouse.jpg");
 }
