@@ -280,6 +280,20 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+input {
+  border: none;
+  border-bottom: 2px solid black;
+}
+
+.inputComment {
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
