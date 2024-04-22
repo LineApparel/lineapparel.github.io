@@ -1076,6 +1076,4 @@ input[type="text"] {
   right:0;
   top:0;
   width:100%
-  background-image: linear-gradient(to left, transparent, white),
-  url("warehouse.jpg");
 }
