@@ -294,6 +294,10 @@ input {
   resize: none;
 }
 
+.inputBoxed {
+  border: 2px solid #ccc;
+}
+
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
