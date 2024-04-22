@@ -1069,6 +1069,6 @@ input[type="text"] {
 }
 
 .creativeP {
-  background: linear-gradient(to left, transparent, white),
+  background-image: linear-gradient(to left, transparent, white),
     url("warehouse.jpg");
 }
