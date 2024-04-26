@@ -320,13 +320,13 @@ input {
 }
 
 .btn-primary {
-  background: #c3b9b8;
+  background: #5adbb5;
   color: #fff;
-  border: 2px solid #c3b9b8;
+  border: 2px solid #5adbb5;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ff9c96 !important;
-  border-color: #ff9c96 !important;
+  background: #5dbea3 !important;
+  border-color: #5dbea3 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -334,7 +334,7 @@ input {
   border: 2px solid #FF847C;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF847C;
+  background: #5dbea3;
   color: #fff !important;
 }
 
