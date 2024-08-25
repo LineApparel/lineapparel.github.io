@@ -127,3 +127,13 @@
 
 
 }());
+function sendEmail() {
+  var link = document.getElementById('send_email');
+  var name = document.getElementById('fullName').value;
+  var subject = document.getElementById('subject').value;
+  var message = "Hello my name is " + name + " -- " + document.getElementById('comment').value;
+  var email = "admin@lineapparelllc.com";
+  var href = "mailto:" + email + "?subject=" + subject + "&body=" + message;
+  console.log(href);
+  link.setAttribute("href", href);
+}
